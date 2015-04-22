@@ -18,6 +18,12 @@ namespace Laba4
             int b = 5;
             b = b + a;
         }
+        public MyClass()
+        {
+            string s = "";
+            int x = 12;
+
+        }
     }
 
     public partial class Form1 : Form
