@@ -10,6 +10,16 @@ using System.Windows.Forms;
 
 namespace Laba4
 {
+    class MyClass
+    {
+        public void Fun1()
+        {
+            int a = 0;
+            int b = 5;
+            b = b + a;
+        }
+    }
+
     public partial class Form1 : Form
     {
         public Form1()
